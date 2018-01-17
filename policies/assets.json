@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "HTV-AU", 
+            "course": "physc01", 
             "name": "Amrita-Heat___Thermodynamics_Virtual_Lab.JPG", 
-            "org": "Amrita-University", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Amrita-Heat & Thermodynamics Virtual Lab.JPG", 
-        "filename": "asset-v1:Amrita-University+HTV-AU+Anytime+type@asset+block@Amrita-Heat___Thermodynamics_Virtual_Lab.JPG", 
+        "filename": "asset-v1:Virtual-Labs+physc01+Anytime+type@asset+block@Amrita-Heat___Thermodynamics_Virtual_Lab.JPG", 
         "import_path": "Amrita-Heat & Thermodynamics Virtual Lab.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amrita-University", 
-            "HTV-AU", 
+            "Virtual-Labs", 
+            "physc01", 
             "thumbnail", 
             "Amrita-Heat___Thermodynamics_Virtual_Lab-JPG.jpg", 
             null
@@ -27,21 +27,21 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "HTV-AU", 
+            "course": "physc01", 
             "name": "icons_Population_Ecology.png", 
-            "org": "Amrita-University", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "icons_Population Ecology.png", 
-        "filename": "asset-v1:Amrita-University+HTV-AU+Anytime+type@asset+block@icons_Population_Ecology.png", 
+        "filename": "asset-v1:Virtual-Labs+physc01+Anytime+type@asset+block@icons_Population_Ecology.png", 
         "import_path": "icons_Population Ecology.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amrita-University", 
-            "HTV-AU", 
+            "Virtual-Labs", 
+            "physc01", 
             "thumbnail", 
             "icons_Population_Ecology-png.jpg", 
             null
